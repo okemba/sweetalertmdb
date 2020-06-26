@@ -1,4 +1,4 @@
-# Example to SweetAlert for MDB-blocuss (Material Design for Bootstrap)   
+# Example to SweetAlert for MDBootstrap.com (Material Design for Bootstrap)   
 
 A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
 
@@ -10,7 +10,7 @@ A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for Jav
 # CSS
 ```javascript
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-<link href="css/mdb.css" rel="stylesheet">
+<link href="css/mdb.min.css" rel="stylesheet">
 <link rel="stylesheet" href="dist/sweetalert.css">
 ```
 ## Autor  
